@@ -30,3 +30,24 @@ a{
 .info{
     display: flex;
 }
+.experiences{
+    display: flex;
+}
+.experiences h3{
+    color: orange;
+}
+.full{
+    margin: 5%;
+    padding-left: 5%;
+    box-shadow: 10px 10px 40px gray;
+    border-left: 10px solid;
+    border-radius: 5px;
+    border-image:linear-gradient(blue,cyan);
+    border-image-slice: 1;
+}
+.good{
+    font-size: 40px;
+}
+footer{
+    text-align: center;
+}
